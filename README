@@ -1,0 +1,18 @@
+# Pastebin Clone – Spring Boot
+
+A simple Pastebin-like application built using Spring Boot and REST APIs.
+
+## 🚀 Features
+- Create a text paste
+- View saved paste using a unique URL
+- REST API based implementation
+- Simple HTML response for viewing pastes
+
+## 🛠 Tech Stack
+- Java
+- Spring Boot
+- Spring Web
+- Maven
+- REST API
+
+## 📂 Project Structure

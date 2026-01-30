@@ -16,3 +16,11 @@ A simple Pastebin-like application built using Spring Boot and REST APIs.
 - REST API
 
 ## 📂 Project Structure
+
+## ▶️ How to Run
+1. Open the project in Eclipse
+2. Run the main Spring Boot application
+3. Access the APIs using browser or Postman
+
+## 📌 Purpose
+This project was created as part of an assessment to demonstrate basic Spring Boot and REST API knowledge.
